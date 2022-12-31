@@ -1,17 +1,13 @@
 ### Halo Semua! 👋 Saya Evan.
 
 Saya adalah mahasiswa prodi statistika semester 2 di Universitas Sebelas Maret, Surakarta. Saat ini, saya tertartik pada bidang Machine Learning, Back-end Development, dan Android Development.  
-Saya juga sedang mempelajari beberapa bahasa pemrograman:
-* Python
-* Node.js
-* Java
 
 - 🌱 Saat ini saya sedang belajar Machine Learning, Back-end Development, dan Android Development
 - 📫 Hubungi saya di <a href="https://linkedin.com/in/evanhanif/">LinkedIn</a>
 - 😄 Pronouns: He | Him
 - ⚡ Fun fact: Sangat senang belajar.
 
-### Tech Stack
+### Bahasa Pemrograman
   <a href="#"><img align="left" alt="Python" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
