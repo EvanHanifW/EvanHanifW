@@ -25,4 +25,4 @@ Saya adalah mahasiswa prodi statistika semester 2 di Universitas Sebelas Maret, 
 </p>
 
 ### Terhubung dengan Saya!
-- <a href="https://linktr.ee/evanhanif">Link tree</a>
+- <a href="https://linktr.ee/evanhanif">linktr.ee</a>
