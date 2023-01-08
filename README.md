@@ -7,12 +7,20 @@ Saya adalah mahasiswa prodi statistika semester 2 di Universitas Sebelas Maret, 
 - 😄 Pronouns: He | Him
 - ⚡ Fun fact: Sangat senang belajar.
 
-### Bahasa Pemrograman
-  <a href="#"><img align="left" alt="Python" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+## Tools
+<p align="left">
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original-wordmark.svg" alt="wordpress" width="35" height="35"/></a> &nbsp;
+  
+## Tools
+  <a href="https://www.python.org/"><img align="left" alt="Python" title="Pyhton" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
+  <a href="https://www.tensorflow.org/"><img align="left" alt="TensorFlow" title="TensorFlow" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" /></a>
+  <a href="https://colab.research.google.com/"><img align="left" alt="Google Colab" title="Google Colab" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/googlecolab.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
   <br>
   <br>
   
